@@ -1,12 +1,20 @@
 {
   "name": "culinary-schema-generator",
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "description": "Interactive CLI for generating JSON-LD Recipe structured data.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "keywords": [
+    "culinary",
+    "recipe",
+    "schema",
+    "json-ld",
+    "seo",
+    "rich-snippets"
+  ],
+  "author": "Monsterchef",
+  "license": "MIT"
 }
